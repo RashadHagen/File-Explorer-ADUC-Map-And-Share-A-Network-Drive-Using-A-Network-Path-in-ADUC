@@ -58,7 +58,7 @@ This project goes over how to map and share a network drive using File Explorer 
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Security tab (top).  To add users or groups: Click: Edit and them.  NOTE: Anyone that is listed in the Security tab will get access to this specific Shares folder.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>To Add Users  (OR)  Groups To Have Access To A Specific Shares Folder: Click: Security tab (top).  Click: Edit and add any users  (OR)  groups.</b></span>  
 <br/>
 
 <table>
