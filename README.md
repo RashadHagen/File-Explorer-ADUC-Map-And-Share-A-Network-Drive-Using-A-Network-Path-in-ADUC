@@ -1,11 +1,11 @@
-<h1>Active Directory Users and Computers (ADUC) - Reset A User’s Password And Check The Last Time Their Password Was Set</h1>
+<h1>File Explorer & Active Directory Users and Computers (ADUC) – Map And Share A Network Drive Using A Network Path in Active Directory Users and Computers (ADUC)</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project goes over how to reset a user’s password using Active Directory Users and Computers.  Resetting a user's password using Active Directory Users and Computers (ADUC) involves changing the user's password within the Active Directory domain, allowing the user to log in with the new password. This process typically involves an administrator locating the user account, selecting the "Reset Password" option, and then providing a new password. Optionally, the administrator can also choose to force the user to change the password upon their next login. 
+This project goes over how to map and share a network drive using File Explorer and Active Directory Users and Computers. We will use File Explorer to add users and/or groups who will have access to the mapped drive.  In Active Directory Users and Computers, we will use a Network Path to share the mapped drive and add it to users and/or groups computers. 
 </b>
 
 
@@ -15,7 +15,7 @@ This project goes over how to reset a user’s password using Active Directory U
   
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
- - <b>Active Directory Users And Computers</b>
+ - <b>File Explorer & Active Directory Users And Computers</b>
 
 
 
@@ -34,17 +34,64 @@ This project goes over how to reset a user’s password using Active Directory U
  <br/>
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Active Directory Users and Computers.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: FILE EXPLORER STEPS</b></span>  
+<br/><br/>
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: File Explorer.  Right-Click: The folder you want to map.  Click: Properties.</b></span>  
 <br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/DyoDKUD.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/ddTDbJI.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/86dLOzJ.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/0k1KZrm.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ZhNewXs.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
 <br /><br />
 
 
-<div 
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Security tab (top).  To add users or groups: Click: Edit and them.  NOTE: Anyone that is listed in the Security tab will automatically get this Mapped Drive.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/3Gd6hSr.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/dqVt47X.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/eO8A65P.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: ACTIVE DIRECTORY USERS AND COMPUTERS STEPS</b></span>  
+<br/><br/>
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Active Directory Users and Computers.  Find the User  (OR)  Group you want to have access to the drive. Right-Click: The result.  Click: Properties (bottom).  Click: Profile tab (top).  <a href="https://github.com/RashadHagen/ADUC-Find-Computer-User-Contact-Group-Printer-Shared-Folder-Organizational-Unit-Common-Que" style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold;">How To Find A User In Active Directory Users  (OR)  Group.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/dFAe0gH.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/38j0kTj.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
