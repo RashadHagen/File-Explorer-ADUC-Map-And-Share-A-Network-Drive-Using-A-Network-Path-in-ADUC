@@ -87,11 +87,110 @@ This project goes over how to map and share a network drive using File Explorer 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/dFAe0gH.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/38j0kTj.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/W8OfYmv.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/hLXJ1On.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/A0RdjeO.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/MNITuvA.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <br /><br />
 
 
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Profile tab, look for the Home folder section (middle-bottom).  Click: Connect.  Select: What drive letter you want to use for the drive.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/KTkelV3.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/uwRhDUA.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/cZiyCRg.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the To box (to the right of the drive letter), Type: The Network Path AND after the Network Path type:  \%username% (ex: \\DCSERVER2016KIS\Personal\%username% ).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/dxPcPZm.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/FKcgS5C.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/75Llsv9.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the To box (to the right of the drive letter), Type: The Network Path AND after the Network Path type:  \%username% (ex: \\DCSERVER2016KIS\Personal\%username% ).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/dxPcPZm.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/FKcgS5C.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Apply.  Click: OK.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/3dvKQyy.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/vtf1SXo.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/UFq5gQi.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In File Explorer: When you open the folder you used for the Network Path, you will see a folder named with the username.  NOTE: Have the Windows OS client that just got the mapped drive added sign-out and then sign-in to Windows OS to see the new mapped drive.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/WJOFz1a.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/rhpzUE7.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/DOgUEWC.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
