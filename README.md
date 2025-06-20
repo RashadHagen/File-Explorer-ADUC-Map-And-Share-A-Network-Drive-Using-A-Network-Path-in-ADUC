@@ -123,7 +123,7 @@ This project goes over how to map and share a network drive using File Explorer 
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the To box (to the right of the drive letter), Type: The Network Path AND after the Network Path type:  \%username% (ex: \\DCSERVER2016KIS\Personal\%username% ).</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the To box (to the right of the drive letter), Paste: The Network Path.  After the Network Path, Type:  \%username% (ex: \\DCSERVER2016KIS\Personal\%username% ).</b></span>  
 <br/>
 
 <table>
