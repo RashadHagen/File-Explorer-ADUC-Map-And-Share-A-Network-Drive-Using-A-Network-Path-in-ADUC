@@ -34,7 +34,7 @@ This project goes over how to map and share a network drive using File Explorer 
  <br/>
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	•	NOTE: WINDOWS SERVER FILE EXPLORER SECURITY GROUP SHARES FOLDER STEPS</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: WINDOWS SERVER FILE EXPLORER SECURITY GROUP SHARES FOLDER STEPS</b></span>  
 <br/><br/>
 
 <div style="text-align:center;">
